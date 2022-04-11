@@ -1,0 +1,13 @@
+#chuck-norris {
+  display: flex;
+}
+
+img  {
+  height: 250px;
+}
+
+#quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
